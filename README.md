@@ -4,7 +4,7 @@ This code is for testing Shift-Accumulation, ReLu, Max pooling operations on Enc
 # Dependency:
 Please install TFHE tool firstly. https://github.com/tfhe/tfhe
 
-# acknowledgement:
+# Acknowledgement:
 We developed our testing code based on TFHE-ML as https://github.com/munsanje/tfhe_ml.
 
 
